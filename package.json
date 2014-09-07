@@ -2,7 +2,7 @@
   "name": "form-populate",
   "version": "0.0.0",
   "description": "Populate an HTML form's values from an object",
-  "main": "index.js",
+  "main": "form_populate.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
